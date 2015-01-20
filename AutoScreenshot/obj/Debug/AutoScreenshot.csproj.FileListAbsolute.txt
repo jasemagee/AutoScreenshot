@@ -1,0 +1,8 @@
+C:\Users\Jason\Documents\GitHub\AutoScreenshot\AutoScreenshot\bin\Debug\AutoScreenshot.exe.config
+C:\Users\Jason\Documents\GitHub\AutoScreenshot\AutoScreenshot\bin\Debug\AutoScreenshot.exe
+C:\Users\Jason\Documents\GitHub\AutoScreenshot\AutoScreenshot\bin\Debug\AutoScreenshot.pdb
+C:\Users\Jason\Documents\GitHub\AutoScreenshot\AutoScreenshot\obj\Debug\AutoScreenshot.Properties.Resources.resources
+C:\Users\Jason\Documents\GitHub\AutoScreenshot\AutoScreenshot\obj\Debug\AutoScreenshot.csproj.GenerateResource.Cache
+C:\Users\Jason\Documents\GitHub\AutoScreenshot\AutoScreenshot\obj\Debug\AutoScreenshot.exe
+C:\Users\Jason\Documents\GitHub\AutoScreenshot\AutoScreenshot\obj\Debug\AutoScreenshot.pdb
+C:\Users\Jason\Documents\GitHub\AutoScreenshot\AutoScreenshot\obj\Debug\AutoScreenshot.csprojResolveAssemblyReference.cache
